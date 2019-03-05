@@ -1,2 +1,1 @@
-# List-and-Tuple
-Python basics
+# Python basics
